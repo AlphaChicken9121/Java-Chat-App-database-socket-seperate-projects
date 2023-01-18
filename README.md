@@ -6,3 +6,4 @@ You can run multiple instances of the same code and use them to chat with eachot
 3. Import the "chat-app.sql" into phpMyAdmin
 4. Use a jdbc mysql connector to connect the java program with database
 5. Run multiple instances of the same "ChatApp.java" file and use it as group chat demonstration
+6. For further clarification view the powerpoint and word document
