@@ -1,4 +1,7 @@
-# Group-Chat-App-using-database-Java-
+# 2 versions of chat applications implemented with database, and the other with socket programing
+
+For 1st version (database): -
+
 You can run multiple instances of the same code and use them to chat with eachother since they are connected to the same database
 
 1. Import the "Chat App" folder into eclipse IDE and change the database connection according to your database
@@ -9,3 +12,11 @@ You can run multiple instances of the same code and use them to chat with eachot
 6. For further clarification view the powerpoint and word document
 
 If you still want help setting the project up, hit me up on discord: Siamax#1489
+
+For 2nd version (socket programming): -
+
+There needs to be 2 instances running, one server and one client instance
+1. download both the JavaFX and JavaFX Client folders and open them in eclipse
+2. run the file with main function for both folders
+3. be sure to run server before the client
+4. now when you message from one side, it is recieved and shown on the other side
